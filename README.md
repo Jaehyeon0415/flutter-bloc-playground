@@ -1,16 +1,11 @@
-# app
+# Flutter Bloc Playground
 
-A new Flutter project.
+Bloc을 사용한 상태관리 연습 프로젝트입니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- [ ] Bloc을 사용한 상태관리
+- [ ] go_router를 사용한 routing
+- [ ] freezed, json_serializable을 사용한 모델 관리
+- [ ] Util 기능 정의
+- [ ] Test code 정의
+- [ ] Github Action을 이용한 CI/CD 구축
